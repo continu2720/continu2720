@@ -2,7 +2,7 @@
    NLP Researcher · Ph.D. in AI, POSTECH
    Multi-hop reasoning · RAG · Explainable & verifiable QA · Legal NLP
 
-📄 **[CV (PDF)](./cv.pdf)** · [Google Scholar](https://scholar.google.com/citations?user=gf9mvlMAAAAJ&hl=ko) · [LinkedIn](https://www.linkedin.com/in/jihyunglee04382)
+📄 **[CV (PDF)](./CV.pdf)** · [Google Scholar](https://scholar.google.com/citations?user=gf9mvlMAAAAJ&hl=ko) · [LinkedIn](https://www.linkedin.com/in/jihyunglee04382)
 
    ### Selected work
    - **KoBLEX** (EMNLP 2025): open legal QA with multi-hop reasoning — [paper](https://aclanthology.org/2025.emnlp-main.200/) · [code](https://github.com/continu2720/KoBLEX)
